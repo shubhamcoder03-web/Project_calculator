@@ -14,7 +14,7 @@ body {
 }
 
 .calculator{
-    height: 350px;
+    height: 380px;
     width: 300px;
     background: linear-gradient(to right, #424d51, #545a5c, #0f2027);
     margin: 200px 600px;
